@@ -4,6 +4,14 @@ Research Question 2: Can the LLM generate explanations that are comparable to hu
 The LlaMa 2 chat 70b model is utilized throughout all experiments with temperature 0.7 and top-p 0.6.  
 The results indicate that in fact LLM LLM-generated explanations influence the LLM decision-making process and are comparable to human-annotated explanations when generated with fine instructions. 
 
-![Methodology](images/methodology.png)
-![Evaluation Results across Different Experiments](images/detailed_results_plot.png)
-![Similarity Scores between the LLM-Generated Explanations and Human-Annotated Explanations in e-SNLI Validation Dataset](images/sim_scores.png)
+| ![Methodology](images/methodology.png) |
+|:--:|
+| *Methodology* |
+
+| ![Evaluation Results](images/detailed_results_plot.png) |
+|:--:|
+| *Evaluation Results across Different Experiments* |
+
+| ![Similarity Scores](images/sim_scores.png) |
+|:--:|
+| *Similarity Scores between the LLM-Generated Explanations and Human-Annotated Explanations in e-SNLI Validation Dataset* |
